@@ -55,6 +55,12 @@ int main()
     
 ```
 
+# Output:
+
+![image](https://github.com/user-attachments/assets/c950b343-8d86-4b67-ad84-c835ce52489f)<br>
+![image](https://github.com/user-attachments/assets/156285df-bd03-49bb-b29f-7786cf6e5ac5)
+
+
 # Conclusion: <br>
 &#8594; We learnt about pointers in C++. <br>
 &#8594; We learnt the use case of pointers in C++. <br>
